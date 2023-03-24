@@ -1,0 +1,43 @@
+#bg-image {
+
+	min-height: 22rem;
+	background-image: url(https://previews.123rf.com/images/bsd555/bsd5552005/bsd555200502094/148094642-implementation-chalk-white-icon-on-black-background-optimization-of-mechanical-production-process.jpg);
+	background-repeat: no-repeat;
+	background-size: 100%;
+	background-position: center;
+	background-attachment: scroll;
+	
+	}
+
+	.front-bg {
+		background-color: black;
+		background: rgba(0, 0, 0, 0.5);
+		text-align: right;
+			
+	}
+
+	#bg-image2 {
+
+		min-height: 22rem;
+		background-image: url(https://cdn1.vectorstock.com/i/1000x1000/37/55/abstract-cogs-gears-on-black-background-vector-1973755.jpg);
+		background-repeat: no-repeat;
+		background-size: 100%;
+		background-position: center;
+		background-attachment: scroll;
+		
+		}
+		.front-bg2 {
+		background-color: black;
+		background: rgba(0, 0, 0, 0.5);
+		text-align: right;
+	}
+	
+
+	#bg-image3 {
+		min-height: 22rem;
+		background-image: url(https://png.pngtree.com/thumb_back/fw800/back_our/20200701/ourmid/pngtree-mechanical-gear-mechanical-picture-book-background-circle-picture-image_346484.jpg);
+		background-repeat: no-repeat;
+		background-size: 100%;
+		background-position: center;
+		background-attachment: scroll;
+	}
